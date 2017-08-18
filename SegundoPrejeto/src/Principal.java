@@ -10,7 +10,7 @@ public class Principal {
 		
 		//criar a variavel x 
 		int x=0;
-		
+		 
 		verificarMaiorQue10(x);
 		x=20;
 		verificarMaiorQue10(x);
